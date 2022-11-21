@@ -27,7 +27,7 @@ include("includes/main.php");
                   <h2>About Corona Virus </h2>
                   <p>English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for
                   </p>
-                  <a class="read_more" href="about.html">About More...</a>
+                  <a class="read_more" href="about.html">About More</a>
                </div>
             </div>
             <div class="col-md-5">
